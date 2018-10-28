@@ -8,6 +8,7 @@ import android.graphics.BitmapFactory;
 import android.os.AsyncTask;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.CardView;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.SearchView;
@@ -106,15 +107,22 @@ public class MainActivity extends AppCompatActivity {
                 TextView t = findViewById(R.id.textView);
                 t.setText(output);
 
+                CardView firstCard = findViewById(R.id.firstCard);
+                ImageView firstCardImage = findViewById(R.id.firstCardImage);
+                TextView firstCardText = findViewById(R.id.firstCardText);
+
+                firstCard.setVisibility(View.INVISIBLE);
+                firstCardImage.setImageBitmap(null);
+                firstCardText.setText("");
+
                 if (results.length() > 0) {
                     JSONObject firstResult = results.getJSONObject(0);
-                    ImageView firstCardImage = findViewById(R.id.firstCardImage);
-                    TextView firstCardText = findViewById(R.id.firstCardText);
 
                     firstCardText.setText(firstResult.getString("name"));
 
                     DownloadImageTask downloadImageTask = new DownloadImageTask(firstCardImage);
                     downloadImageTask.execute(firstResult.getString("icon"));
+                    firstCard.setVisibility(View.VISIBLE);
                 }
             } catch (JSONException ex) {
                 // suppress
