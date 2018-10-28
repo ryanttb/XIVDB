@@ -1,0 +1,789 @@
+{
+	"items": {
+		"results": [{
+			"attributes_params_special": [],
+			"category_name": "Seafood",
+			"color": "common",
+			"icon": "https:\/\/secure.xivdb.com\/img\/game_local\/2\/20788.jpg",
+			"id": 20788,
+			"kind_name": "Materials",
+			"level_equip": 1,
+			"level_item": 220,
+			"name": "Velodyna Salmon",
+			"rarity": 1,
+			"url": "\/item\/20788\/velodyna+salmon",
+			"url_api": "https:\/\/api.xivdb.com\/item\/20788",
+			"url_type": "item",
+			"url_xivdb": "https:\/\/xivdb.com\/item\/20788\/velodyna+salmon"
+		}, {
+			"attributes_params_special": [],
+			"category_name": "Fishing Tackle",
+			"color": "common",
+			"icon": "https:\/\/secure.xivdb.com\/img\/game_local\/2\/20613.jpg",
+			"id": 20613,
+			"kind_name": "Other",
+			"level_equip": 60,
+			"level_item": 180,
+			"name": "Salmon Roe",
+			"rarity": 1,
+			"url": "\/item\/20613\/salmon+roe",
+			"url_api": "https:\/\/api.xivdb.com\/item\/20613",
+			"url_type": "item",
+			"url_xivdb": "https:\/\/xivdb.com\/item\/20613\/salmon+roe"
+		}, {
+			"attributes_params_special": [],
+			"category_name": "Seafood",
+			"color": "common",
+			"icon": "https:\/\/secure.xivdb.com\/img\/game_local\/2\/20200.jpg",
+			"id": 20200,
+			"kind_name": "Materials",
+			"level_equip": 1,
+			"level_item": 245,
+			"name": "Cherry Salmon",
+			"rarity": 1,
+			"url": "\/item\/20200\/cherry+salmon",
+			"url_api": "https:\/\/api.xivdb.com\/item\/20200",
+			"url_type": "item",
+			"url_xivdb": "https:\/\/xivdb.com\/item\/20200\/cherry+salmon"
+		}, {
+			"attributes_params_special": [],
+			"category_name": "Seafood",
+			"color": "common",
+			"icon": "https:\/\/secure.xivdb.com\/img\/game_local\/2\/20117.jpg",
+			"id": 20117,
+			"kind_name": "Materials",
+			"level_equip": 1,
+			"level_item": 245,
+			"name": "Lordly Salmon",
+			"rarity": 1,
+			"url": "\/item\/20117\/lordly+salmon",
+			"url_api": "https:\/\/api.xivdb.com\/item\/20117",
+			"url_type": "item",
+			"url_xivdb": "https:\/\/xivdb.com\/item\/20117\/lordly+salmon"
+		}, {
+			"attributes_params_special": [],
+			"category_name": "Dye",
+			"color": "common",
+			"icon": "https:\/\/secure.xivdb.com\/img\/game_local\/5\/5743.jpg",
+			"id": 5743,
+			"kind_name": "Materials",
+			"level_equip": 1,
+			"level_item": 15,
+			"name": "Salmon Pink Dye",
+			"rarity": 1,
+			"url": "\/item\/5743\/salmon+pink+dye",
+			"url_api": "https:\/\/api.xivdb.com\/item\/5743",
+			"url_type": "item",
+			"url_xivdb": "https:\/\/xivdb.com\/item\/5743\/salmon+pink+dye"
+		}, {
+			"attributes_params_special": [],
+			"category_name": "Seafood",
+			"color": "common",
+			"icon": "https:\/\/secure.xivdb.com\/img\/game_local\/4\/4967.jpg",
+			"id": 4967,
+			"kind_name": "Materials",
+			"level_equip": 1,
+			"level_item": 30,
+			"name": "Yugr\u0027am Salmon",
+			"rarity": 1,
+			"url": "\/item\/4967\/yugr\u0027am+salmon",
+			"url_api": "https:\/\/api.xivdb.com\/item\/4967",
+			"url_type": "item",
+			"url_xivdb": "https:\/\/xivdb.com\/item\/4967\/yugr\u0027am+salmon"
+		}, {
+			"attributes_params_special": [],
+			"category_name": "Seafood",
+			"color": "common",
+			"icon": "https:\/\/secure.xivdb.com\/img\/game_local\/4\/4949.jpg",
+			"id": 4949,
+			"kind_name": "Materials",
+			"level_equip": 1,
+			"level_item": 20,
+			"name": "Bluebell Salmon",
+			"rarity": 1,
+			"url": "\/item\/4949\/bluebell+salmon",
+			"url_api": "https:\/\/api.xivdb.com\/item\/4949",
+			"url_type": "item",
+			"url_xivdb": "https:\/\/xivdb.com\/item\/4949\/bluebell+salmon"
+		}, {
+			"attributes_params_special": [],
+			"category_name": "Meal",
+			"color": "common",
+			"icon": "https:\/\/secure.xivdb.com\/img\/game_local\/4\/4662.jpg",
+			"id": 4662,
+			"kind_name": "Medicines \u0026 Meals",
+			"level_equip": 1,
+			"level_item": 23,
+			"name": "Salmon Meuniere",
+			"rarity": 1,
+			"url": "\/item\/4662\/salmon+meuniere",
+			"url_api": "https:\/\/api.xivdb.com\/item\/4662",
+			"url_type": "item",
+			"url_xivdb": "https:\/\/xivdb.com\/item\/4662\/salmon+meuniere"
+		}],
+		"total": 8,
+		"paging": {
+			"page": 1,
+			"total": 1,
+			"pages": [1],
+			"next": 1,
+			"prev": 1
+		}
+	},
+	"recipes": {
+		"results": [{
+			"class_name": "Culinarian",
+			"color": "common",
+			"icon": "https:\/\/img.finalfantasyxiv.com\/lds\/pc\/global\/images\/itemicon\/2c\/2c62f03cd2d47f118c45b5995ab7fc332b90f4e3.png?20181028",
+			"icon_lodestone": "2c\/2c62f03cd2d47f118c45b5995ab7fc332b90f4e3",
+			"id": 958,
+			"item_name": "Salmon Meuniere",
+			"level": 23,
+			"level_diff": 0,
+			"level_view": 23,
+			"masterbook": null,
+			"name": "Salmon Meuniere",
+			"stars": 0,
+			"stars_html": "",
+			"url": "\/recipe\/958\/salmon+meuniere",
+			"url_api": "https:\/\/api.xivdb.com\/recipe\/958",
+			"url_type": "recipe",
+			"url_xivdb": "https:\/\/xivdb.com\/recipe\/958\/salmon+meuniere"
+		}],
+		"total": 1,
+		"paging": {
+			"page": 1,
+			"total": 1,
+			"pages": [1],
+			"next": 1,
+			"prev": 1
+		}
+	},
+	"quests": {
+		"results": [],
+		"total": 0,
+		"paging": {
+			"page": 1,
+			"total": 0,
+			"pages": [1, 0],
+			"next": 0,
+			"prev": 1
+		}
+	},
+	"actions": {
+		"results": [],
+		"total": 0,
+		"paging": {
+			"page": 1,
+			"total": 0,
+			"pages": [1, 0],
+			"next": 0,
+			"prev": 1
+		}
+	},
+	"instances": {
+		"results": [],
+		"total": 0,
+		"paging": {
+			"page": 1,
+			"total": 0,
+			"pages": [1, 0],
+			"next": 0,
+			"prev": 1
+		}
+	},
+	"achievements": {
+		"results": [],
+		"total": 0,
+		"paging": {
+			"page": 1,
+			"total": 0,
+			"pages": [1, 0],
+			"next": 0,
+			"prev": 1
+		}
+	},
+	"fates": {
+		"results": [],
+		"total": 0,
+		"paging": {
+			"page": 1,
+			"total": 0,
+			"pages": [1, 0],
+			"next": 0,
+			"prev": 1
+		}
+	},
+	"leves": {
+		"results": [],
+		"total": 0,
+		"paging": {
+			"page": 1,
+			"total": 0,
+			"pages": [1, 0],
+			"next": 0,
+			"prev": 1
+		}
+	},
+	"places": {
+		"results": [],
+		"total": 0,
+		"paging": {
+			"page": 1,
+			"total": 0,
+			"pages": [1, 0],
+			"next": 0,
+			"prev": 1
+		}
+	},
+	"gathering": {
+		"results": [],
+		"total": 0,
+		"paging": {
+			"page": 1,
+			"total": 0,
+			"pages": [1, 0],
+			"next": 0,
+			"prev": 1
+		}
+	},
+	"npcs": {
+		"results": [],
+		"total": 0,
+		"paging": {
+			"page": 1,
+			"total": 0,
+			"pages": [1, 0],
+			"next": 0,
+			"prev": 1
+		}
+	},
+	"enemies": {
+		"results": [],
+		"total": 0,
+		"paging": {
+			"page": 1,
+			"total": 0,
+			"pages": [1, 0],
+			"next": 0,
+			"prev": 1
+		}
+	},
+	"emotes": {
+		"results": [],
+		"total": 0,
+		"paging": {
+			"page": 1,
+			"total": 0,
+			"pages": [1, 0],
+			"next": 0,
+			"prev": 1
+		}
+	},
+	"status": {
+		"results": [],
+		"total": 0,
+		"paging": {
+			"page": 1,
+			"total": 0,
+			"pages": [1, 0],
+			"next": 0,
+			"prev": 1
+		}
+	},
+	"titles": {
+		"results": [],
+		"total": 0,
+		"paging": {
+			"page": 1,
+			"total": 0,
+			"pages": [1, 0],
+			"next": 0,
+			"prev": 1
+		}
+	},
+	"minions": {
+		"results": [],
+		"total": 0,
+		"paging": {
+			"page": 1,
+			"total": 0,
+			"pages": [1, 0],
+			"next": 0,
+			"prev": 1
+		}
+	},
+	"mounts": {
+		"results": [],
+		"total": 0,
+		"paging": {
+			"page": 1,
+			"total": 0,
+			"pages": [1, 0],
+			"next": 0,
+			"prev": 1
+		}
+	},
+	"weather": {
+		"results": [],
+		"total": 0,
+		"paging": {
+			"page": 1,
+			"total": 0,
+			"pages": [1, 0],
+			"next": 0,
+			"prev": 1
+		}
+	},
+	"characters": {
+		"results": [{
+			"name": "Salmon Sasaki",
+			"server": "Hades",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/811c825bbd188736a171bf958b34e560_a4730651230dd43cb129562a30d531aefc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-25 19:25:38",
+			"id": 20806277,
+			"url": "\/character\/20806277\/salmon+sasaki\/hades",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/20806277",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/20806277\/salmon+sasaki\/hades"
+		}, {
+			"name": "Salmon Sashimi",
+			"server": "Jenova",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/535d9a39ffc3bd0dbcf3cca496f13fde_ce736afe35e2ded4e46c4fd0659aef7efc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-26 17:37:51",
+			"id": 17184525,
+			"url": "\/character\/17184525\/salmon+sashimi\/jenova",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/17184525",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/17184525\/salmon+sashimi\/jenova"
+		}, {
+			"name": "Salmon Man",
+			"server": "Faerie",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/c2b84688f4e5efea1a2b9677a6162601_0e336ff6ad415f47233f0aaf127feac0fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-27 10:23:49",
+			"id": 17148613,
+			"url": "\/character\/17148613\/salmon+man\/faerie",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/17148613",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/17148613\/salmon+man\/faerie"
+		}, {
+			"name": "Salmon Girl",
+			"server": "Valefor",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/64cf088ca067bc60a191f826f5277fd3_485f4777c38002871591fb54f27edc65fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-26 08:05:30",
+			"id": 17044773,
+			"url": "\/character\/17044773\/salmon+girl\/valefor",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/17044773",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/17044773\/salmon+girl\/valefor"
+		}, {
+			"name": "Salmon Xlll",
+			"server": "Cactuar",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/46d81f9e1163f02fcc8504f9462a9742_96ab1df8877c1f8ba6a89a39cccfd437fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-03-04 17:28:15",
+			"id": 16972257,
+			"url": "\/character\/16972257\/salmon+xlll\/cactuar",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/16972257",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/16972257\/salmon+xlll\/cactuar"
+		}, {
+			"name": "Salmon Salad",
+			"server": "Carbuncle",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/f10a0e8a9a6dd5412e579809bcbe412f_9eb3c19866f7ae0eeeffac7bf770aba5fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-26 16:34:56",
+			"id": 16881855,
+			"url": "\/character\/16881855\/salmon+salad\/carbuncle",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/16881855",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/16881855\/salmon+salad\/carbuncle"
+		}, {
+			"name": "Salmon Roe",
+			"server": "Tonberry",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/681505b041e5d043a16c2f263643c3fa_7bb6b1e488f0e4f01c5314d010b60f31fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-27 06:01:37",
+			"id": 16694386,
+			"url": "\/character\/16694386\/salmon+roe\/tonberry",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/16694386",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/16694386\/salmon+roe\/tonberry"
+		}, {
+			"name": "Salmonsmash Highwind",
+			"server": "Hyperion",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/017999e65878624cf0f5e76e57e73f94_57ae9ee5592123dd79c8912bf768cf99fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-25 17:52:37",
+			"id": 16293751,
+			"url": "\/character\/16293751\/salmonsmash+highwind\/hyperion",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/16293751",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/16293751\/salmonsmash+highwind\/hyperion"
+		}, {
+			"name": "Salmon Bagel",
+			"server": "Valefor",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/47d5e25bc654fb6f462fe0694c308a37_485f4777c38002871591fb54f27edc65fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-26 05:59:37",
+			"id": 15776122,
+			"url": "\/character\/15776122\/salmon+bagel\/valefor",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/15776122",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/15776122\/salmon+bagel\/valefor"
+		}, {
+			"name": "Salmon Yama",
+			"server": "Hades",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/636c3f58e15b977bbea187513145cd64_a4730651230dd43cb129562a30d531aefc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-25 18:40:41",
+			"id": 15231776,
+			"url": "\/character\/15231776\/salmon+yama\/hades",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/15231776",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/15231776\/salmon+yama\/hades"
+		}, {
+			"name": "Salmon Sangan",
+			"server": "Leviathan",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/f729b9f45a27a5ed05905945e6dc6803_a91aae52cff9ef65932db06b150ffd47fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-26 14:32:30",
+			"id": 15053879,
+			"url": "\/character\/15053879\/salmon+sangan\/leviathan",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/15053879",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/15053879\/salmon+sangan\/leviathan"
+		}, {
+			"name": "Salmon King",
+			"server": "Ultros",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/9b679f01c02765059d03b0f9bdb5dcf9_c514cdcdb619439df97d906d4434ccc6fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-27 14:13:40",
+			"id": 14430972,
+			"url": "\/character\/14430972\/salmon+king\/ultros",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/14430972",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/14430972\/salmon+king\/ultros"
+		}, {
+			"name": "Salmon Roe",
+			"server": "Brynhildr",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/888fef6bb1f802411f0d0cc0b04c9170_d0a0f515a62457570c9b44997063e3c1fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-03-04 17:11:13",
+			"id": 13806626,
+			"url": "\/character\/13806626\/salmon+roe\/brynhildr",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/13806626",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/13806626\/salmon+roe\/brynhildr"
+		}, {
+			"name": "Salmon Oishi",
+			"server": "Yojimbo",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/d7dd1efa5d396248693b44bb82318f67_4a92c619bde4f34cfa77e05fef21ad85fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-27 02:52:57",
+			"id": 13206687,
+			"url": "\/character\/13206687\/salmon+oishi\/yojimbo",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/13206687",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/13206687\/salmon+oishi\/yojimbo"
+		}, {
+			"name": "Salmon Sanctus",
+			"server": "Leviathan",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/a2e21a0cf9b172697ccc602451c5cd50_a91aae52cff9ef65932db06b150ffd47fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-26 16:11:53",
+			"id": 12797350,
+			"url": "\/character\/12797350\/salmon+sanctus\/leviathan",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/12797350",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/12797350\/salmon+sanctus\/leviathan"
+		}, {
+			"name": "Salmondorf Lemoose",
+			"server": "Coeurl",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/0abf620aba2fb1ff5000c5f32a79e2eb_284358f8eb4efc9095914e46798c6ab3fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-27 09:02:39",
+			"id": 12459185,
+			"url": "\/character\/12459185\/salmondorf+lemoose\/coeurl",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/12459185",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/12459185\/salmondorf+lemoose\/coeurl"
+		}, {
+			"name": "Salmon Onion",
+			"server": "Ixion",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/85eedb6fb3fd13f3bbfae020dd9db8b7_7126768d768f6c6c7fed3eaee98c3a8afc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-27 20:52:54",
+			"id": 12273530,
+			"url": "\/character\/12273530\/salmon+onion\/ixion",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/12273530",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/12273530\/salmon+onion\/ixion"
+		}, {
+			"name": "Salmon Simon",
+			"server": "Ultros",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/5fab4122ec9ebf052153aa107c720a4b_c514cdcdb619439df97d906d4434ccc6fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-26 08:26:45",
+			"id": 11956455,
+			"url": "\/character\/11956455\/salmon+simon\/ultros",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/11956455",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/11956455\/salmon+simon\/ultros"
+		}, {
+			"name": "Salmon Oishii",
+			"server": "Alexander",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/d22535296ed0b3b5af2f27323846eaae_b7a71d8799cf6dd75b711a7f52de6675fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-27 06:12:35",
+			"id": 11917328,
+			"url": "\/character\/11917328\/salmon+oishii\/alexander",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/11917328",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/11917328\/salmon+oishii\/alexander"
+		}, {
+			"name": "Salmon Salmon",
+			"server": "Alexander",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/427747a6ccb55bc8f588f3f4386d1dd9_b7a71d8799cf6dd75b711a7f52de6675fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-27 23:47:36",
+			"id": 11046936,
+			"url": "\/character\/11046936\/salmon+salmon\/alexander",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/11046936",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/11046936\/salmon+salmon\/alexander"
+		}, {
+			"name": "Salmon Fish",
+			"server": "Gilgamesh",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/f91f3864325d0092f0d51ca6cf7f818e_b937560c841465f7c4bc8eb47ea7948afc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-26 16:37:38",
+			"id": 10782667,
+			"url": "\/character\/10782667\/salmon+fish\/gilgamesh",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/10782667",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/10782667\/salmon+fish\/gilgamesh"
+		}, {
+			"name": "Salmon Man",
+			"server": "Cerberus",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/cf68d569616b646f013ee9bb98258541_777c57311d510ca65dac3c1077dee435fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-26 14:23:28",
+			"id": 10696338,
+			"url": "\/character\/10696338\/salmon+man\/cerberus",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/10696338",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/10696338\/salmon+man\/cerberus"
+		}, {
+			"name": "Salmon Lord",
+			"server": "Goblin",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/28b9b05a8b71ffb5e475cb3d5645fff9_8e81e2940511f7152ba4462fe53e35b8fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-27 07:34:35",
+			"id": 10254910,
+			"url": "\/character\/10254910\/salmon+lord\/goblin",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/10254910",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/10254910\/salmon+lord\/goblin"
+		}, {
+			"name": "Salmonbear Sureshot",
+			"server": "Malboro",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/fbd05517a1f4abe0649e508c5f94a227_2e97c13fdd593d15d543093f8a37b6f0fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-26 18:25:32",
+			"id": 10190257,
+			"url": "\/character\/10190257\/salmonbear+sureshot\/malboro",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/10190257",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/10190257\/salmonbear+sureshot\/malboro"
+		}, {
+			"name": "Salmonbear Razorvine",
+			"server": "Diabolos",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/2fbdb811e011b9bffa9c735d7f7dd2ca_7b33d33ae3ecb996f778a5f67a6a0af6fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-25 18:06:31",
+			"id": 9884627,
+			"url": "\/character\/9884627\/salmonbear+razorvine\/diabolos",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/9884627",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/9884627\/salmonbear+razorvine\/diabolos"
+		}, {
+			"name": "Salmon Masu",
+			"server": "Siren",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/5f531f1cab1a8904cd2e5d4b1f9949df_58a84e851e55175d22158ca97af58a1ffc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-26 05:06:31",
+			"id": 9106657,
+			"url": "\/character\/9106657\/salmon+masu\/siren",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/9106657",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/9106657\/salmon+masu\/siren"
+		}, {
+			"name": "Salmon Milk",
+			"server": "Valefor",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/1f3176f2e9ae44c04ba36a1504c7527f_485f4777c38002871591fb54f27edc65fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-26 05:40:54",
+			"id": 8535650,
+			"url": "\/character\/8535650\/salmon+milk\/valefor",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/8535650",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/8535650\/salmon+milk\/valefor"
+		}, {
+			"name": "Salmon Chan",
+			"server": "Phoenix",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/ca61e3aa7095bd7a5cdebe04ba60f167_5047bc596a4bab2dc7f7c120bb22dec5fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-27 22:15:56",
+			"id": 8407511,
+			"url": "\/character\/8407511\/salmon+chan\/phoenix",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/8407511",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/8407511\/salmon+chan\/phoenix"
+		}, {
+			"name": "Salmon Slayer",
+			"server": "Zodiark",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/a241952cc0db89ab4af34a25255d2bac_c274370774c6bc3483cc8740805f41bcfc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-26 05:36:39",
+			"id": 7199093,
+			"url": "\/character\/7199093\/salmon+slayer\/zodiark",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/7199093",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/7199093\/salmon+slayer\/zodiark"
+		}, {
+			"name": "Salmon Fsln",
+			"server": "Hades",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/b36072b4bfa1d9ecd91b84bbfb6d493e_a4730651230dd43cb129562a30d531aefc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-25 19:01:36",
+			"id": 7058555,
+			"url": "\/character\/7058555\/salmon+fsln\/hades",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/7058555",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/7058555\/salmon+fsln\/hades"
+		}, {
+			"name": "Salmon Roe",
+			"server": "Tiamat",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/dc35bb678e3bb08b4f87999f52408d85_9f10d335198e90990f3437c5733468e7fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-26 03:51:43",
+			"id": 6929271,
+			"url": "\/character\/6929271\/salmon+roe\/tiamat",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/6929271",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/6929271\/salmon+roe\/tiamat"
+		}, {
+			"name": "Salmon Pinkpink",
+			"server": "Hades",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/d0b787a0503de6d62ff0ed96b427f944_a4730651230dd43cb129562a30d531aefc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-25 19:20:49",
+			"id": 5612414,
+			"url": "\/character\/5612414\/salmon+pinkpink\/hades",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/5612414",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/5612414\/salmon+pinkpink\/hades"
+		}, {
+			"name": "Salmon Scarlet",
+			"server": "Alexander",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/298cc61847375c5eab47af718ece3d0f_b7a71d8799cf6dd75b711a7f52de6675fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-27 03:36:51",
+			"id": 5370758,
+			"url": "\/character\/5370758\/salmon+scarlet\/alexander",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/5370758",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/5370758\/salmon+scarlet\/alexander"
+		}, {
+			"name": "Salmonella Chan",
+			"server": "Shiva",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/0578cd8755222b05dc141d20182953e2_3fbff0e6b620e4d259dc427abc6574dafc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-27 18:51:41",
+			"id": 5005501,
+			"url": "\/character\/5005501\/salmonella+chan\/shiva",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/5005501",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/5005501\/salmonella+chan\/shiva"
+		}, {
+			"name": "Salmon Salty",
+			"server": "Hades",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/0d0a1e174eceb12120e8908f635f2a27_a4730651230dd43cb129562a30d531aefc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-25 18:43:37",
+			"id": 4744852,
+			"url": "\/character\/4744852\/salmon+salty\/hades",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/4744852",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/4744852\/salmon+salty\/hades"
+		}, {
+			"name": "Salmon Snake",
+			"server": "Cerberus",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/aa17e83351bd58363921332ad1dd4a82_777c57311d510ca65dac3c1077dee435fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-26 12:06:36",
+			"id": 4490557,
+			"url": "\/character\/4490557\/salmon+snake\/cerberus",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/4490557",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/4490557\/salmon+snake\/cerberus"
+		}, {
+			"name": "Salmon Sashimi",
+			"server": "Famfrit",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/5370201bc6003a9a751c39835259363e_fce4949e615393e574f2d57134b31fc1fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-27 04:52:36",
+			"id": 3983940,
+			"url": "\/character\/3983940\/salmon+sashimi\/famfrit",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/3983940",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/3983940\/salmon+sashimi\/famfrit"
+		}, {
+			"name": "Salmon Kahlua",
+			"server": "Valefor",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/b043ebc3700d34eaa77b936e25fde09b_485f4777c38002871591fb54f27edc65fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-27 06:26:39",
+			"id": 3354341,
+			"url": "\/character\/3354341\/salmon+kahlua\/valefor",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/3354341",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/3354341\/salmon+kahlua\/valefor"
+		}, {
+			"name": "Salmon Rice",
+			"server": "Mandragora",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/e87a87740ad98f663e24349088ac2f0f_ee738654add55c3d07ea92d8e108074cfc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-27 09:42:34",
+			"id": 2588915,
+			"url": "\/character\/2588915\/salmon+rice\/mandragora",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/2588915",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/2588915\/salmon+rice\/mandragora"
+		}, {
+			"name": "Salmon Pon",
+			"server": "Tiamat",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/c827796af0b94f2b285bef5b574b69bd_9f10d335198e90990f3437c5733468e7fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-27 12:50:54",
+			"id": 2465427,
+			"url": "\/character\/2465427\/salmon+pon\/tiamat",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/2465427",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/2465427\/salmon+pon\/tiamat"
+		}, {
+			"name": "Salmon Roe",
+			"server": "Titan",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/0d5af599673230738a61fb44c7dc3ef6_e2bb3f9679fec6d4836fcf8abcc3eeacfc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-27 18:15:46",
+			"id": 1042866,
+			"url": "\/character\/1042866\/salmon+roe\/titan",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/1042866",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/1042866\/salmon+roe\/titan"
+		}, {
+			"name": "Salmoneus Payne",
+			"server": "Excalibur",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/1ffcf1a5b8668d1d4e9dac7136741dce_745baffc465480ed372e274d50318290fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-26 05:59:57",
+			"id": 501130,
+			"url": "\/character\/501130\/salmoneus+payne\/excalibur",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/501130",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/501130\/salmoneus+payne\/excalibur"
+		}, {
+			"name": "Salmon Ikurakun",
+			"server": "Masamune",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/4b3e28964a438c76c5dabec64c179783_134930215abb8a90ec37d6cc05b05e08fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-26 19:16:57",
+			"id": 158534,
+			"url": "\/character\/158534\/salmon+ikurakun\/masamune",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/158534",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/158534\/salmon+ikurakun\/masamune"
+		}, {
+			"name": "Salmon Sushi",
+			"server": "Excalibur",
+			"icon": "https:\/\/img2.finalfantasyxiv.com\/f\/30c185f4660af350f884c5726e2cffdb_745baffc465480ed372e274d50318290fc0_96x96.jpg?t=20183000",
+			"last_updated": "2018-10-26 19:26:33",
+			"id": 51337,
+			"url": "\/character\/51337\/salmon+sushi\/excalibur",
+			"url_type": "character",
+			"url_api": "https:\/\/api.xivdb.com\/character\/51337",
+			"url_xivdb": "https:\/\/xivdb.com\/character\/51337\/salmon+sushi\/excalibur"
+		}],
+		"total": 44,
+		"paging": {
+			"page": 1,
+			"total": 1,
+			"pages": [1],
+			"next": 1,
+			"prev": 1
+		}
+	}
+}
